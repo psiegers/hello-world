@@ -1,2 +1,3 @@
-# hello-world
-my first repository on github to experiment with
+This is my first edit of a file on my first branch on the newly created hello-world repo.
+
+I'm Pieter Siegers, Senior Software Developer, currently based in Monterrey Mexico.
